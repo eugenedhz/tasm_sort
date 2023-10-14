@@ -1,5 +1,5 @@
 # tasm_sort
-Two programs written in turbo assembler. You can use it to sort lists of numbers.
+The program written in turbo assembler. You can use it to sort lists of numbers.
 
 # How to use
 
